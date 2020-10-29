@@ -6,6 +6,7 @@ headerIcon: ./images/recharge-horiz-black.svg
 enableToc: true
 oasDefinitions:
   petstore: ./openapi/petstore.yaml
+  customers: https://recharge.stoplight.io/api/v1/projects/recharge/recharge-api/nodes/reference/Recharge.v1.yaml
   # add links to definitions in our API registry by using a fully qualified URL.
 stylesheets:
   - https://fonts.googleapis.com/css?family=Roboto:300,400,600,700
