@@ -2,7 +2,7 @@ meta:
   title: Redocly Training
   description: The best API documentation generator ever.
   siteUrl: https://portal-demo.redoc.ly
-headerIcon: ./images/logo.png
+headerIcon: ./images/recharge-horiz-black.svg
 enableToc: true
 oasDefinitions:
   petstore: ./openapi/petstore.yaml
