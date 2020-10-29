@@ -6,7 +6,7 @@ Define that in the `siteConfig.yaml` file.
 
 ```yaml
 oasDefinitions:
-  petstore: ./openapi/petstore.yaml
+  Customers: https://recharge.stoplight.io/api/v1/projects/recharge/recharge-api/nodes/reference/Recharge.v1.yaml
 ```
 
 Notice that the petstore is pointing to an API definition on the local filesystem.
