@@ -39,7 +39,7 @@ training:
       - label: Creating React components
         page: developer-portal/custom-component.mdx
   - group: Customers reference
-    expanded: false
+    expanded: true
     pages:
       - page: openapi/reference.page.yaml/*
 
